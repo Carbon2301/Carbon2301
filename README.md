@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Carbon -->
 <a href="#" target="_blank">
   <img src="svg/huuandev.svg" width="1200" alt="Carbon" />
