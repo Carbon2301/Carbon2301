@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Carbon -->
 <a href="#" target="_blank">
   <img src="svg/huuandev.svg" width="1200" alt="Carbon" />
@@ -75,3 +76,21 @@
 <a href="#" target="_blank">
   <img src="svg/huuandev-quotes.svg" width="1000" height="100" alt="Carbon" />
 </a>
+=======
+## Hi there 👋
+
+<!--
+**Carbon2301/Carbon2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> dc4ad9fbc75c880ca0446f9779002db84c84077c
