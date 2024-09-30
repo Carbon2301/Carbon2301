@@ -18,13 +18,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3666AB" alt="Python logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3666AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" alt="SQL logo" title="SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" alt="SQL logo" title="SQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" /></span>
 &nbsp;
