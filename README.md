@@ -35,13 +35,13 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div>
   <a href="#" title="HuuAndev">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carbon2301&layout=compact&&langs_count=10&theme=dark"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carbon2301&layout=compact&&langs_count=10&theme=highcontrast"/>
   </a>
   <a href="#" title="HuuAndev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Carbon2301&show_icons=true&theme=dark&bg_color=000000&border_color=61dafb&" alt="Carbon" />
-
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Carbon2301&show_icons=true&theme=highcontrast&border_color=61dafb&#gh-dark-mode-only" alt="Carbon" />
+  
   </a>
 </div>
 
@@ -65,6 +65,9 @@
   </a>
   <a href="https://x.com/huuan2301" target="top">
     <img src="https://img.icons8.com/?size=100&id=I02TdaPxbwRz&format=png&color=000000" alt="HuuAn-X" />
+  </a>
+  <a href="mailto:trinhhuuan37@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuuAn-email" />
   </a>
 </div>
 
