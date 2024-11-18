@@ -22,15 +22,11 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
-          font-size: 16px;
-        }
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"Just be yourself!"</div>
         <div class="quotes-vi">"Because life’s too short to be anybody else."</div>
-        <div class="trungquandev-signature">- Carbon -</div>
       </div>
 		</div>
 	</foreignObject>
