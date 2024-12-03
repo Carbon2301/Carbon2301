@@ -51,7 +51,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://www.facebook.com/trinhan2301.hls/" target="blank">
+  <a href="https://www.facebook.com/trinhan2301.hls" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuuAn-facebook" />
   </a>
   <a href="https://www.youtube.com/@antrinhhuu9029" target="blank">
